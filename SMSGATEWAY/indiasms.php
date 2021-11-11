@@ -1,3 +1,4 @@
+<?php
 $message=urlencode($otp." is your App OTP and is valid for 10 minutes. Do not share the OTP with anyone.");
 $phone="XXXXXXXXXX";
 
@@ -10,3 +11,4 @@ $ch=curl_init('https://web.insignsms.com/api/sendsms?username='.$username.'&pass
 curl_setopt($ch, CURLOPT_RETURNTRANSFER, 1);
 $data = curl_exec($ch);
 curl_close($ch);
+?>
