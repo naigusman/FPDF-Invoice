@@ -17,3 +17,4 @@ For OTP
   ->Use Verify Otp Api for Verification On msg91 panel
   ->Verification Done on msg91
   
+NOTE:-AFTER ADDING TEMPLET OR SENDER ID PLEASE WAIT FOR APPROVAL.
