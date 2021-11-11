@@ -10,11 +10,10 @@ FOR SIMPLE SMS
   ->Pass Variable same as templet Params
   ->Send Work For Me
   
-  For OTP
-  
-  1)USE Send Otp API
-    ->Add Send Otp Templet With Sender Id and Variable
-    ->After Send OTP. Success Responce
-    ->Use Verify Otp Api for Verification On msg91 panel
-    ->Verification Done on msg91
+For OTP
+2)USE Send Otp API
+  ->Add Send Otp Templet With Sender Id and Variable
+  ->After Send OTP. Success Responce
+  ->Use Verify Otp Api for Verification On msg91 panel
+  ->Verification Done on msg91
   
